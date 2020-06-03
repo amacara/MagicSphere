@@ -1,6 +1,6 @@
 # MagicSphere
 
-[VRプロフェッショナルアカデミー](https://vracademy.jp/)での修了制作で作成した個人開発のコンテンツ。
+[VRプロフェッショナルアカデミー](https://vracademy.jp/)での修了制作（第2期）で作成した個人開発のコンテンツ。
 <br><br>
 [[コンテンツ紹介ページ（外部）]](https://vracademy.jp/introduction/3442-2/)
 <br><br>
